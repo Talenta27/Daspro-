@@ -1,8 +1,3 @@
-/*
-Name	:	Hansen Henok Oktavianus Situmorang
-Prodi	:	D3-TI 2
-NIM		:	11318055
-*/
 
 #include <stdio.h>
 int main (){
